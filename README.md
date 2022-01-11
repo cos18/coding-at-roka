@@ -10,9 +10,12 @@
     - [서버랙 안의 맥미니를 원격으로 사용하는 방법](https://youtu.be/KVfHM9TEkoc)
     - [TinyPilot](https://mtlynch.io/tinypilot/)
   - 차선책으로 AWS Lightsail + [code-server](https://github.com/coder/code-server)
+    - [구축 블로그글](https://hakawati.co.kr/445)
 
 ### Schedule
 크루 근무를 들어가다보니 자기개발 가능 시간이 들쭉날쭉함
 - 야간 / 초야 : 1300-1600
 - 주간 : 1800-2000
 - 비번 : free
+
+> 💡 크루 근무 근무시간 조회 서비스 만들어보자
